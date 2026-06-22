@@ -42,7 +42,7 @@
 * 🔭 Currently working on exciting full stack projects
 * 🌱 Always learning — currently exploring **React** & **Flutter**
 * 💬 Ask me about **HTML, CSS, JS, Python, PHP, React, Flutter, MySQL, Firebase**
-* 📫 Reach me at:kasunshamike.dev@gmail.com
+* 📫 Reach me at:ranjandushany.dev@gmail.com
 * ⚡ Fun fact: I love turning complex problems into simple solutions
 
 ---
