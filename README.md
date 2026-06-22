@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ganeshan Kasun Shamike 👋</h1>
+<h1 align="center">Hi there, I'm Ranjan Dushany 👋</h1>
 
 <h3 align="center">🚀 Full Stack Developer | Web & Mobile Enthusiast</h3>
 
