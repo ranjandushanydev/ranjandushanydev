@@ -54,4 +54,4 @@
   </a>
 </p>
 ---
-<p align="center">⭐ Star my repositories if you find them useful!</p> evvaru intha code a vaichu github ennudiya profile a beautiful akkurathu step by steop a tharavum
+<p align="center">⭐ Star my repositories if you find them useful!</p> 
